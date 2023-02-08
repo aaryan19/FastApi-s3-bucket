@@ -1,0 +1,5 @@
+fastapi
+pandas
+boot3
+mangum
+uuid
